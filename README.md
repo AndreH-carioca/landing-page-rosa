@@ -5,13 +5,6 @@ Desenvolvi uma Landing Page com animações de GSAP JavaScript
 <br/>
 </p>
 
-## 🎨 Paleta de Cores ##
-
- <p> #FCA4A6 </p>
- <p> #C1576A </p>
- <p> #A83E51 </p>
- <p> #FCF8F8 </p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -19,6 +12,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
+
+## 🎨 Paleta de Cores ##
+
+ <p> #FCA4A6 </p>
+ <p> #C1576A </p>
+ <p> #A83E51 </p>
+ <p> #FCF8F8 </p>
+
 
 ## 💻 Projeto
 
