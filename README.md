@@ -7,10 +7,10 @@ Desenvolvi uma Landing Page na paleta de cor rosa
 
 ## 🎨 Paleta de Cores ##
 
- #FCA4A6;
- #C1576A;
- #A83E51;
- #FCF8F8;
+ <p> #FCA4A6 </p>
+ <p> #C1576A </p>
+ <p> #A83E51 </p>
+ <p> #FCF8F8 </p>
 
 ## 🚀 Tecnologias
 
@@ -20,3 +20,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 
+## 💻 Projeto
+
+- [Visite o projeto online](https://andreh-carioca.github.io/landing-page-rosa/)
