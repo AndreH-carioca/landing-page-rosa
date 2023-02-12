@@ -20,8 +20,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 
-
-  --first-color: #FCA4A6;
-  --first-color-dark: #C1576A;
-  --first-color-darken: #A83E51;
-  --white-color: #FCF8F8;
