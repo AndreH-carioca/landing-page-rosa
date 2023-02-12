@@ -9,7 +9,8 @@ Desenvolvi uma Landing Page com animações de GSAP JavaScript
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e SCSS
+- HTML
+- SCSS
 - JavaScript
 - Git e Github
 
