@@ -1,7 +1,7 @@
 <h1 align="center">Landing Page - Cor Rosa</h1>
 
 <p align="center">
-Desenvolvi uma Landing Page na paleta de cor rosa
+Desenvolvi uma Landing Page com animações de GSAP JavaScript
 <br/>
 </p>
 
